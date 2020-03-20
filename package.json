@@ -1,0 +1,19 @@
+{
+  "name": "fancy-vue-modal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doYoungAn/fancy-vue-modal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doYoungAn/fancy-vue-modal/issues"
+  },
+  "homepage": "https://github.com/doYoungAn/fancy-vue-modal#readme"
+}
