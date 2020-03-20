@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/doYoungAn/fancy-vue-modal/issues"
   },
-  "homepage": "https://github.com/doYoungAn/fancy-vue-modal#readme"
+  "homepage": "https://github.com/doYoungAn/fancy-vue-modal#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3",
+    "webpack-merge": "^4.2.2"
+  }
 }
